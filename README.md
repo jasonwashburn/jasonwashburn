@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Washburn
 - 👀 I’m passionate about open source development and cutting edge technology.
-- 🌱 Working with Python, AWS, and Kubernetes by day, currently playing with Go and improving developer experiences by night (well...esrly morning)
+- 🌱 Working with Python, AWS, and Kubernetes by day, currently playing with Go and improving developer experiences by night (well...early morning)
 - 💞️ I’m looking for great open source projects to collaborate on. Bonus points if its something related to assitive technology to aid with disabilities!
 - 📫 You can reach me at wburn@wburn.net or on Twitter: [@WBurn](https://twitter.com/WBurn)
