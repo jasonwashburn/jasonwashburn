@@ -2,4 +2,4 @@
 - 👀 I’m passionate about open source development and cutting edge technology.
 - 🌱 Developing in 🐍Python and designing ☁️Cloud Architecture by day, currently playing with 🦀Rust, 🐹Go by night (well...early morning)
 - 💞️ I’m always looking for great open source projects to collaborate on. Bonus points if its something related to assitive technology to aid with disabilities!
-- 📫 You can reach me at jason.washburn@gmail.com or on Twitter: [@__jwashburn__](https://twitter.com/__jwashburn__)
+- 📫 You can reach me at jason.washburn@gmail.com or on Twitter: [@\_\_jwashburn__](https://twitter.com/__jwashburn__)
