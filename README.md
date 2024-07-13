@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Washburn
 - 👀 I’m passionate about open source development and cutting edge technology.
-- 🐍 Python in the streets, 🦀 Rust, 🐹Go, ⭐ Gleam 🤔 in the sheets?
+- 🐍 Python in the streets, 🦀 Rust and 🐹Go in the sheets.
 - 💞️ I’m always looking for great open source projects to collaborate on. Bonus points if its something related to assitive technology to aid with disabilities!
 - 📫 You can reach me at jason.washburn@gmail.com or on Twitter: [@\_\_jwashburn__](https://twitter.com/__jwashburn__)
